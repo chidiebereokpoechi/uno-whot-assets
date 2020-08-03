@@ -1,2 +1,2 @@
-# uno-whot-assets
-Assets for Uno Whot game
+# Uno Whot Game Assets
+This repository contains the assets for the game Uno Whot
